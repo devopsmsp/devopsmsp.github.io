@@ -1,0 +1,50 @@
+baseURL = "http://devopsmsp.github.io/"
+languageCode = "en-us"
+title = "devops MSP"
+subtitle = "DevOps practitioners in the greater Minneapolis/St. Paul area"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
+# Menu
+
+[[menu.main]]
+  Name = "devopsdays MSP"
+  URL = "https://devopsdays.org/minneapolis"
+  weight = -40
+
+[[menu.main]]
+  Name = "YouTube"
+  URL = "https://www.youtube.com/channel/UC_L5NW8kmClZyYz-HFgKsKA"
+  weight = -30
+
+[[menu.main]]
+  Name = "Meetup"
+  URL = "https://www.meetup.com/DevOps-Minneapolis/"
+  weight = -20
+
+[[menu.main]]
+  Name = "Twitter"
+  URL = "https://twitter.com/devopsmsp"
+  weight = -15
+
+[[menu.main]]
+  Name = "Slack"
+  URL = "/slack/"
+  weight = -10
+
+[[menu.main]]
+  Name = "Code of Conduct"
+  URL = "/code-of-conduct/"
+  weight = -5
+
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[params]
+  description = "devops MSP"
+  background_color_class = "bg-white"
+  featured_image = "/images/msp.png"
+
