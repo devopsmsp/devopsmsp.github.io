@@ -1,4 +1,4 @@
-baseURL = "http://devopsmsp.github.io/"
+baseURL = "https://devopsmsp.github.io/"
 languageCode = "en-us"
 title = "devops MSP"
 subtitle = "DevOps practitioners in the greater Minneapolis/St. Paul area"
